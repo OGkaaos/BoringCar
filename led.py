@@ -1,3 +1,9 @@
+
+'''
+Organized Chaos
+06.02.2018
+'''
+
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BOARD)
